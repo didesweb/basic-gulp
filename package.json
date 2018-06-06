@@ -1,0 +1,20 @@
+{
+  "name": "didesweb",
+  "version": "1.0.0",
+  "description": "gulp concat and minify",
+  "main": "w3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roque Arnas",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-uglify": "^3.0.0"
+  },
+  "engines": {
+    "node": ">= 4.5"
+  }
+}
